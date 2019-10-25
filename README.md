@@ -1,9 +1,8 @@
-# software
-소프트웨어공학 팀
-
-Requirement
+# Requirement
 opencv
+Django
 
-django
-
-
+---
+# 요구분석
+* 추가해주세요
+* 추가해주세요
