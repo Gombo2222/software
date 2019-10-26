@@ -1,6 +1,7 @@
 # Requirement
 opencv
 Django
+Beautifulsoap4
 
 ---
 # 요구분석
