@@ -10,6 +10,6 @@
 
 ---
 # 참고 문서
-* [Opencv사용법](https://www.youtube.com/watch?v=F2FRpmh9sQo)
+* [Opencv사용법.](https://www.youtube.com/watch?v=F2FRpmh9sQo)
 
 * [window git 설치](https://coding-factory.tistory.com/245)
